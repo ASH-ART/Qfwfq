@@ -21,6 +21,7 @@ A sub-40% keyboard PCB in the spirit of [weteor's Klacker_BS](https://github.com
 
 ## Todo
 - [x] Confirm prototype works
+- [ ] BOM and CPL files
 - [ ] Firmware
 - [ ] Generic silk
 - [ ] Misc. cleanups
