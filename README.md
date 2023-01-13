@@ -2,6 +2,9 @@
 
 A sub-40% keyboard PCB in the spirit of [weteor's Klacker_BS](https://github.com/weteor/Klacker_BS), with base kit modifiers and MechVault-style split bars. It wouldn't be a sub-40% without spicy keycap compatibility.
 
+## Status
+WIP; awaiting layout feedback from testers.
+
 ## Layout
 <img width="800" alt="KLE preview" src="Exports/Images/QfwfQ layout.png">
   
@@ -30,6 +33,8 @@ A sub-40% keyboard PCB in the spirit of [weteor's Klacker_BS](https://github.com
 ## Disclaimer
 
 This PCB has been tested to work. The members of the PCB development team are not liable if you end up with a non-functional pcb. Order at your own risk. Support will not be provided but pull requests will be reviewed and possibly accepted.
+
+The layout is a work in progress and may be subject to change in further revisions.
 
 ## License
 
