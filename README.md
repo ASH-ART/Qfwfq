@@ -7,9 +7,9 @@ WIP; awaiting layout feedback from testers.
 
 ## Layout
 <img width="800" alt="KLE preview" src="Exports/Images/QfwfQ layout.png">
-  
+
 <a href="http://www.keyboard-layout-editor.com/#/gists/0c9cab4e35c557366dce358b5a9cf5c8">Link<a>
-  
+
 ## Renders
 <img width="800" alt="Top view" src="Exports/Images/QfwfQ Top Render.png">
 <img width="800" alt="Bottom view" src="Exports/Images/QfwfQ Bottom Render.png">
@@ -24,9 +24,9 @@ WIP; awaiting layout feedback from testers.
 
 ## Todo
 - [x] Confirm prototype works
-- [ ] BOM and CPL files
-- [ ] Firmware
-- [ ] Generic silk
+- [x] BOM and CPL files
+- [x] Firmware
+- [x] Generic silk
 - [ ] Misc. cleanups
 - [ ] Use git submodule for parts lib
 
@@ -39,7 +39,7 @@ The layout is a work in progress and may be subject to change in further revisio
 ## License
 
 This project is released under the GPL v3 License. Please refer to the LICENCE file.
-  
+
 ## Credits
-  
+
 PeppyToad for the layout and firmware, ash for the pcb, and weteor for the inspiration.
