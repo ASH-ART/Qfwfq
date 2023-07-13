@@ -15,7 +15,7 @@ WIP; awaiting layout feedback from testers.
 <img width="800" alt="Bottom view" src="Exports/Images/QfwfQ Bottom Render.png">
 
 ## Specs
-* Atmega 32U4-AU MCU
+* Atmega 32U4-AU MCU (Why??)
 * MX and Hi-Tek 725 (space invaders) switch footprints
 * ESD and overcurrent protection
 * Other stuff like diodes (not the cool ones)
